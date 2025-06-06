@@ -1,1 +1,2 @@
 # libarary_project
+The objective of this project is to develop a simple yet efficient Library Management System using Python.This system aims to automate the standard procedures of a traditional library, such as book entry, issuing, returning, and display.It serves as a foundation for more advanced systems that may include user authentication, database integration, and graphical user interfaces.
